@@ -1,0 +1,25 @@
+{
+  "proxy_settings": {
+    "enable_proxy_purchase": false,
+    "proxy_purchase_sequence": [
+      3,
+      5,
+      2,
+      4,
+      6
+    ],
+    "proxy_bot_id": "1909242405"
+  },
+  "octo_settings": {
+    "local_api_url": "http://localhost:58888/api",
+    "cloud_api_url": "https://app.octobrowser.net/api/v2/automation/profiles",
+    "api_token": "f7369938ae04452a8642456edbc85dd9"
+  },
+  "telegram_settings": {
+    "api_id": ,
+    "api_hash": "",
+    "phone": "",
+    "group_id": ,
+    "password": ""
+  }
+}
